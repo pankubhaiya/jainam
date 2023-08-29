@@ -4,8 +4,7 @@
 **Front End : Angular**
 **Backend : Nodejs**
 
-**ER Diagram**
-![ER Diagram](./recources/Untitled.png)
+
 
 **API endpoints :**
 
